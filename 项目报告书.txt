@@ -1,0 +1,15 @@
+1810班-李磊
+
+项目一：  （MINIMAL） 数据管理系统
+	主页面：minimal.html
+	子页面： malLogin.html (登录界面，无后台)
+	              malForms(表单展示页面)
+	              malBtnIcon.html ( 按钮和图表应用界面 )
+	              malTables.html ( 表格展示页面 )
+	              malCharts.html ( charts图表引用界面 )
+	功能：响应式 的 数据展示 网页
+
+项目二：	（Visual Date）大数据可视化页面实现
+	详情：6个echarts图表的引用，
+		（中国地图，环形图，柱形图，折线图.....）
+	          3个表格的数据展示
